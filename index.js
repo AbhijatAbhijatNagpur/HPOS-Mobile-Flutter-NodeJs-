@@ -6,7 +6,7 @@ const cors = require("cors");
 
 // Load environment variables from .env file
 dotenv.config();
-
+// project
 // Initialize Express app
 const app = express();
 const PORT = process.env.PORT || 5000;
